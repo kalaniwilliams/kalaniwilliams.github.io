@@ -96,12 +96,12 @@ author:
   name             : "Kalani Williams"
   avatar           : "/assets/images/bio_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "She/Her"
-  location         : "AMNH & Fordham University"
+  location         : "Colorado State University"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:kwilliams1@amnh.org"
+      url: "mailto:kalani.williams@colostate.edu"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/iguanaonarock/"
