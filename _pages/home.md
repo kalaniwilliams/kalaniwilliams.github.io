@@ -141,7 +141,9 @@ feature_row8:
  
 ---
 
-Currently a member of the [Hekkala Lab](https://hekkalalab.wordpress.com/people/about/)!
+⚠️ Warning! This website has not been updated since 2021! ⚠️
+
+Currently a member of the [Kading Lab](https://labs.vetmedbiosci.colostate.edu/kading/)!
 
 # Research Projects
 
